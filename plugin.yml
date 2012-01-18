@@ -1,0 +1,9 @@
+name: Notebook
+version: 0.0.1
+description: Allows creation of notes and tasks
+author: Delphi-Dev
+main: delphi.net.notebook.Notebook
+commands:
+    nb:
+        description: Start using the notebook plugin
+        usage: /nb <command> <name> <extras>

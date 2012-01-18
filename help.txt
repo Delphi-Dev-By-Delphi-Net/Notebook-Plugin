@@ -1,0 +1,8 @@
+To create a new notebook:
+/nb create NOTEBOOK_NAME Public/private
+
+To create an entry in a notebook:
+/nb addentry NOTEBOOK_NAME ENTRY_NAME the note text at end
+
+To list all notes in a notebook:
+/nb list NOTEBOOK_NAME
